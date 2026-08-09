@@ -1,6 +1,6 @@
 {
-  "versionCode": 119,
-  "versionName": "1.99.20",
+  "versionCode": 120,
+  "versionName": "1.99.21",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון אוטומטי של שיוך זוגיות ושחזור משימות משותפות בעלייה"
+  "updateDescription": "תיקון שגיאת ניווט והגנה מלאה על מחסנית המסכים בגרסה 120"
 }
