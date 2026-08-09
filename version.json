@@ -1,0 +1,6 @@
+{
+  "versionCode": 118,
+  "versionName": "1.99.19",
+  "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
+  "updateDescription": "עדכון מנגנון בדיקת עדכונים עם גיבוי GitHub ישיר לפתרון שגיאות ענן"
+}
