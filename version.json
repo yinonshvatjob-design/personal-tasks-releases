@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "1.99.21",
+  "versionCode": 121,
+  "versionName": "1.99.22",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון שגיאת ניווט והגנה מלאה על מחסנית המסכים בגרסה 120"
+  "updateDescription": "ניקוי זהויות מיקומים כפולות ומניעת יצירת מסמכים ריקים בענן"
 }
