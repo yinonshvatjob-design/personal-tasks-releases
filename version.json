@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "1.99.32",
+  "versionCode": 132,
+  "versionName": "1.99.33",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון הפרדה מוחלטת בין מוצרי קנייה למשימות לביצוע והפעלת דיאלוג אישור משימות מרובות"
+  "updateDescription": "המרת קניות דחופות למשימות דחופות במסך הראשי והפרדה מוחלטת"
 }
