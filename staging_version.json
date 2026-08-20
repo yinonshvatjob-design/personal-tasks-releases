@@ -1,6 +1,6 @@
 {
-  "versionCode": 130,
-  "versionName": "1.99.31",
+  "versionCode": 131,
+  "versionName": "1.99.32",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון אתחול אוטומטי של התראת תקציר יומי בעליית האפליקציה (גרסה 130)"
+  "updateDescription": "תיקון הפרדה מוחלטת בין מוצרי קנייה למשימות לביצוע והפעלת דיאלוג אישור משימות מרובות"
 }
