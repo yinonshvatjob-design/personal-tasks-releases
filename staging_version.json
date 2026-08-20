@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "1.99.26",
+  "versionCode": 126,
+  "versionName": "1.99.27",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "חלוקת AI אוטומטית למחלקות סופר וחילוץ מדויק של כמות יחידות מתמונות וטקסט"
+  "updateDescription": "תיקון מנגנון התראות למשימות מחזוריות ויומיות"
 }
