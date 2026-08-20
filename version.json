@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "1.99.29",
+  "versionCode": 129,
+  "versionName": "1.99.30",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון טיפוס AiTaskSuggestion בדיאלוג אישור משימות מרובות והפצה"
+  "updateDescription": "תיקון ייבוא וקומפילציה ShareTargetActivity והפצת גרסה 129"
 }
