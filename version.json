@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "1.99.24",
+  "versionCode": 124,
+  "versionName": "1.99.25",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "חילוץ אוטומטי של שם ואיש קשר מכותרת המשימה והצגת כפתור התקשר בהתראה"
+  "updateDescription": "תיקון הצגת פריטי קניות משותפים מתמונה במסך רשימת הקניות באפליקציה"
 }
