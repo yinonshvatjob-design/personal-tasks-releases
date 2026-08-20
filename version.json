@@ -1,6 +1,6 @@
 {
-  "versionCode": 129,
-  "versionName": "1.99.30",
+  "versionCode": 130,
+  "versionName": "1.99.31",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון ייבוא וקומפילציה ShareTargetActivity והפצת גרסה 129"
+  "updateDescription": "תיקון אתחול אוטומטי של התראת תקציר יומי בעליית האפליקציה (גרסה 130)"
 }
