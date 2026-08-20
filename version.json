@@ -1,6 +1,6 @@
 {
-  "versionCode": 127,
-  "versionName": "1.99.28",
+  "versionCode": 128,
+  "versionName": "1.99.29",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "ברירת מחדל חכמה לשעות יום אחר הצהריים בהקלטות ופענוח AI"
+  "updateDescription": "עדכון קישור התראת דף יומי לפורטל הדף היומי"
 }
