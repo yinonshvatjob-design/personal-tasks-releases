@@ -2,5 +2,5 @@
   "versionCode": 128,
   "versionName": "1.99.29",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "עדכון קישור התראת דף יומי לפורטל הדף היומי"
+  "updateDescription": "תיקון טיפוס AiTaskSuggestion בדיאלוג אישור משימות מרובות והפצה"
 }
