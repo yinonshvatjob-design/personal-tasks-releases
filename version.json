@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "1.99.27",
+  "versionCode": 127,
+  "versionName": "1.99.28",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון מנגנון התראות למשימות מחזוריות ויומיות"
+  "updateDescription": "ברירת מחדל חכמה לשעות יום אחר הצהריים בהקלטות ופענוח AI"
 }
