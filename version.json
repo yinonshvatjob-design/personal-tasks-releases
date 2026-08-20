@@ -1,6 +1,6 @@
 {
-  "versionCode": 124,
-  "versionName": "1.99.25",
+  "versionCode": 125,
+  "versionName": "1.99.26",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון הצגת פריטי קניות משותפים מתמונה במסך רשימת הקניות באפליקציה"
+  "updateDescription": "חלוקת AI אוטומטית למחלקות סופר וחילוץ מדויק של כמות יחידות מתמונות וטקסט"
 }
