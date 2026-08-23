@@ -1,6 +1,6 @@
 {
-  "versionCode": 132,
-  "versionName": "1.99.33",
+  "versionCode": 133,
+  "versionName": "1.99.34",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "המרת קניות דחופות למשימות דחופות במסך הראשי והפרדה מוחלטת"
+  "updateDescription": "תיקון תחביר Kotlin בפיצול פריטים והפצת גרסה 133"
 }
