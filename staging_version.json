@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.99.34",
+  "versionCode": 134,
+  "versionName": "1.99.35",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון תחביר Kotlin בפיצול פריטים והפצת גרסה 133"
+  "updateDescription": "ניקוי SSML מתצוגת התקציר היומי ומניעת כפתורי חיוג בהתראה"
 }
