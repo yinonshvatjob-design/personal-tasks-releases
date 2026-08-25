@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.99.35",
+  "versionCode": 135,
+  "versionName": "1.99.36",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "ניקוי SSML מתצוגת התקציר היומי ומניעת כפתורי חיוג בהתראה"
+  "updateDescription": "מעבר לקולות Google Cloud Wavenet HD והדגשת מגדר תקני בעברית לתקציר היומי"
 }
