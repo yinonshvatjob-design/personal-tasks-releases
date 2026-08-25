@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "1.99.37",
+  "versionCode": 137,
+  "versionName": "1.99.38",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "בחירת קולות מותאמים אישית והקראת דוגמה לתקציר היומי"
+  "updateDescription": "תיקון מגדרי ברירת המחדל של קולות GCP TTS"
 }
