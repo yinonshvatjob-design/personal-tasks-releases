@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "1.99.38",
+  "versionCode": 138,
+  "versionName": "1.99.39",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון מגדרי ברירת המחדל של קולות GCP TTS"
+  "updateDescription": "הסרת API Key קשיח וניקוי מוחלט של מערך האבטחה"
 }
