@@ -1,6 +1,6 @@
 {
-  "versionCode": 148,
-  "versionName": "1.99.49",
+  "versionCode": 149,
+  "versionName": "1.99.50",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון יסודי: מחיקת דריסת שורות קיימות, מניעת כפילויות מלאה, הוספה אמינה דרך לוח גזירים וניקוי שורות ריקות"
+  "updateDescription": "שמירה מלאה על שורות רווח ריקות של המשתמש ב-Keep וסינונן מהאפליקציה"
 }
