@@ -1,6 +1,6 @@
 {
-  "versionCode": 138,
-  "versionName": "1.99.39",
+  "versionCode": 139,
+  "versionName": "1.99.40",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "הסרת API Key קשיח וניקוי מוחלט של מערך האבטחה"
+  "updateDescription": "סנכרון דו-צדדי מלא ומאובטח מול Google Keep (אישי ועבודה) - בחירת פתק קיים ופתיחת פתקים חדשים"
 }
