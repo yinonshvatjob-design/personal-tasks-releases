@@ -1,6 +1,6 @@
 {
-  "versionCode": 143,
-  "versionName": "1.99.44",
+  "versionCode": 144,
+  "versionName": "1.99.45",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "הוספת משימה חדשה בתחילת הרשימה וסנכרון מיקום וסדר מדויק דו-כיווני מול Google Keep (v1.99.44)"
+  "updateDescription": "תיקון מלא לייצוא וסנכרון מהאפליקציה ל-Google Keep והוספת כפתור ייצוא יזום (v1.99.45)"
 }
