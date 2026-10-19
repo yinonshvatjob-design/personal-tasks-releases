@@ -1,6 +1,6 @@
 {
-  "versionCode": 145,
-  "versionName": "1.99.46",
+  "versionCode": 146,
+  "versionName": "1.99.47",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "סנכרון מלא ורציף בזמן אמת ל-Google Keep, הוספת משימה בראש הרשימה, תיקון יצירת שורות חדשות ועדכון סדר שורות מלא"
+  "updateDescription": "סנכרון מלא, רציף ודו-כיווני בזמן אמת בין האפליקציה ל-Google Keep כולל סדר שורות מדויק"
 }
