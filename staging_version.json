@@ -1,6 +1,6 @@
 {
-  "versionCode": 140,
-  "versionName": "1.99.41",
+  "versionCode": 141,
+  "versionName": "1.99.42",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "סנכרון Google Keep בזמן אמת ושמירה מדויקת על סדר המשימות מהתחלה לסוף כמו בפתק ב-Keep (v1.99.41)"
+  "updateDescription": "תיקון העלאת משימות חדשות שנוצרות באפליקציה אל הפתק ב-Google Keep בזמן אמת (v1.99.42)"
 }
