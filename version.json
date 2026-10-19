@@ -1,6 +1,6 @@
 {
-  "versionCode": 147,
-  "versionName": "1.99.48",
+  "versionCode": 148,
+  "versionName": "1.99.49",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון גודל מסך מלא לרקע, פתיחת פתקים ישירה, זמני סנכרון אמיתיים וחיווי שעה"
+  "updateDescription": "תיקון יסודי: מחיקת דריסת שורות קיימות, מניעת כפילויות מלאה, הוספה אמינה דרך לוח גזירים וניקוי שורות ריקות"
 }
