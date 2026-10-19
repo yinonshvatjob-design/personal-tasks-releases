@@ -1,6 +1,6 @@
 {
-  "versionCode": 141,
-  "versionName": "1.99.42",
+  "versionCode": 142,
+  "versionName": "1.99.43",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקון העלאת משימות חדשות שנוצרות באפליקציה אל הפתק ב-Google Keep בזמן אמת (v1.99.42)"
+  "updateDescription": "תיקון פתיחת הפתק והזרקת משימות חדשות מהאפליקציה ל-Google Keep במחשב (v1.99.43)"
 }
