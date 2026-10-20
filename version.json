@@ -1,6 +1,6 @@
 {
-  "versionCode": 152,
-  "versionName": "1.99.53",
+  "versionCode": 153,
+  "versionName": "1.99.54",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "סנכרון מלא של הזנת משימה חדשה ל-Google Keep ללא דילוג רקע וסגירה לשמירה בענן"
+  "updateDescription": "הזנת משימה מהימנה ל-Google Keep עם אירועי מקלדת של אנדרואיד וסנכרון תמידי של פעולות ממתינות"
 }
