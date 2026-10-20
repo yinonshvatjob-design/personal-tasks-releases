@@ -1,6 +1,6 @@
 {
-  "versionCode": 149,
-  "versionName": "1.99.50",
+  "versionCode": 150,
+  "versionName": "1.99.51",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "שמירה מלאה על שורות רווח ריקות של המשתמש ב-Keep וסינונן מהאפליקציה"
+  "updateDescription": "תיקון שורש בסנכרון Google Keep: תיקון שגיאת תחביר בסקריפט, סגירת מודאל לשמירה בשרת, וכפתורי סנכרון ופתיחה מהירים"
 }
