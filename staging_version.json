@@ -1,6 +1,6 @@
 {
-  "versionCode": 153,
-  "versionName": "1.99.54",
+  "versionCode": 154,
+  "versionName": "1.99.55",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "הזנת משימה מהימנה ל-Google Keep עם אירועי מקלדת של אנדרואיד וסנכרון תמידי של פעולות ממתינות"
+  "updateDescription": "שדרוג מקיף למנוע ה-AI: שיוך מדויק של הקלטות ותמונות לכל הרובריקות של קניות ומשימות, חיבור MultiTaskReviewDialog ופתרון באגים"
 }
