@@ -1,6 +1,6 @@
 {
-  "versionCode": 154,
-  "versionName": "1.99.55",
+  "versionCode": 155,
+  "versionName": "1.99.56",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "שדרוג מקיף למנוע ה-AI: שיוך מדויק של הקלטות ותמונות לכל הרובריקות של קניות ומשימות, חיבור MultiTaskReviewDialog ופתרון באגים"
+  "updateDescription": "עדכון גרסה שגרתי לשיפור היציבות וביצועים."
 }
