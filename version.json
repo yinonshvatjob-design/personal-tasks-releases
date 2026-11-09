@@ -1,6 +1,6 @@
 {
-  "versionCode": 162,
-  "versionName": "1.99.63",
+  "versionCode": 163,
+  "versionName": "1.99.64",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "כפתור בולט לפורטל ואפליקציית הדף היומי והבטחת הצגה קבועה בראש המסך"
+  "updateDescription": "הפניה ישירה לעמוד הראשי של פורטל הדף היומי המתאפס כל יום"
 }
