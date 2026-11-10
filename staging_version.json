@@ -1,6 +1,6 @@
 {
-  "versionCode": 165,
-  "versionName": "1.99.66",
+  "versionCode": 166,
+  "versionName": "1.99.67",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "כפתור יחיד וחכם לדף היומי - פתיחה ישירה לאפליקציית com.mogy.dafyomi או לפורטל מההתראה ומהמסך הראשי"
+  "updateDescription": "תיקוני אמינות: תזמון התראות ענן מ-Firebase, דף יומי אופליין מלא, שיעור חפץ חיים בהתראה ובטיחות נודניק"
 }
