@@ -1,6 +1,6 @@
 {
-  "versionCode": 166,
-  "versionName": "1.99.67",
+  "versionCode": 167,
+  "versionName": "1.99.68",
   "apkUrl": "https://raw.githubusercontent.com/yinonshvatjob-design/personal-tasks-releases/main/app-debug-multi.apk",
-  "updateDescription": "תיקוני אמינות: תזמון התראות ענן מ-Firebase, דף יומי אופליין מלא, שיעור חפץ חיים בהתראה ובטיחות נודניק"
+  "updateDescription": "עדכון גרסה שגרתי לשיפור היציבות וביצועים."
 }
